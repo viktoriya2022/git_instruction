@@ -19,3 +19,4 @@ git config --global user.name "Ваше имя"
 git config --global user.email "почта@example.com"
 ```
 
+## 4. Создание репозитория
